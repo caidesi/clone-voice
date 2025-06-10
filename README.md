@@ -141,11 +141,6 @@ if md5sum is not None:
    如果已正确放置了，但仍错误，[点击下载 2.tts_cache.zip](https://github.com/jianchang512/clone-voice/releases/download/v0.0.1/2.tts_cache.zip) ，将解压后得到的2个文件，复制到软件根目录的 tts_cache 文件夹内,或者用个稳定的梯子开启全局代理，也可解决该问题
    
 
-# 相关联项目
-
-[视频翻译配音工具:翻译字幕并配音](https://github.com/jianchang512/pyvideotrans)
-
-[语音识别工具:本地离线的语音识别转文字工具](https://github.com/jianchang512/stt)
 
 [人声背景乐分离:极简的人声和背景音乐分离工具，本地化网页操作](https://github.com/jianchang512/stt)
 
